@@ -1,0 +1,32 @@
+body{
+    background-color: teal;
+}
+
+.heading{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    background: #ffffff;
+    margin-top: 15px;
+    border-radius: 30px;
+    height: 30px;
+    width: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: solid;
+    font-weight: bold;
+    padding-bottom: 2px;
+}
+
+table{
+    margin-top: 30px;
+}
+
+td{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    border: 5px solid white;
+    font-size: 100px;
+}
